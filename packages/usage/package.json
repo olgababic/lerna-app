@@ -1,6 +1,6 @@
 {
   "name": "usage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "alpha": "^1.0.2",
-    "beta": "^1.0.2"
+    "alpha": "^1.0.3",
+    "beta": "^1.0.3"
   },
-  "gitHead": "a9b0babc1596e0d9434aa945028db3652587506d"
+  "gitHead": "f7b9c42af0cb99d773601a7bc81db4957011abe5"
 }
