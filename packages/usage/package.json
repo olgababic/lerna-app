@@ -12,5 +12,6 @@
   "dependencies": {
     "alpha": "^1.0.1",
     "beta": "^1.0.1"
-  }
+  },
+  "gitHead": "a9b0babc1596e0d9434aa945028db3652587506d"
 }
