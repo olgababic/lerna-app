@@ -1,6 +1,6 @@
 {
   "name": "@olzica/prvi-projekat",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "description": "Olgin prvi projekat",
   "main": "./dist",
   "directories": {
