@@ -1,6 +1,6 @@
 {
   "name": "@olga/prvi-projekat",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "Olgin prvi projekat",
   "main": "./dist",
   "directories": {
