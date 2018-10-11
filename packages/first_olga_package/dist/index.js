@@ -41,7 +41,7 @@ function (_PureComponent) {
   _createClass(Olga, [{
     key: "render",
     value: function render() {
-      return _react.default.createElement("div", null, "Olga");
+      return _react.default.createElement("div", null, "Olzica");
     }
   }]);
 
