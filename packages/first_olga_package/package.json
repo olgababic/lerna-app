@@ -1,5 +1,5 @@
 {
-  "name": "@olzica/prvi-projekat",
+  "name": "olzicin-prvi-projekat",
   "version": "2.0.11",
   "description": "Olgin prvi projekat",
   "main": "./dist",
@@ -40,5 +40,6 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "style-loader": "^0.21.0"
-  }
+  },
+  "gitHead": "cb1e229ce662ed2747c806c9ace4bb08e6d4adc4"
 }
