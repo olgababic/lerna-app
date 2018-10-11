@@ -6,6 +6,9 @@
   "directories": {
     "doc": "docs"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "lib": "babel src/lib -d dist",
     "lib:watch": "babel src/lib -w -d dist",
