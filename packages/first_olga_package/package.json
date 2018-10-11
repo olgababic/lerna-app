@@ -37,5 +37,6 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "style-loader": "^0.21.0"
-  }
+  },
+  "gitHead": "7cb38e004627e95bd9540fffe75c83bd6a0a7deb"
 }
