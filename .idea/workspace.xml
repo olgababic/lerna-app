@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d8b722c-d072-45e7-bb1b-eb6f8603d864" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/first_olga_package/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/first_olga_package/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,13 +47,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="62" />
-          <entry key="json" value="155" />
+          <entry key="json" value="161" />
           <entry key="jsx" value="99" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="155" />
+          <entry key="JSON" value="161" />
           <entry key="JSX Harmony" value="99" />
           <entry key="JavaScript" value="62" />
         </counts>
@@ -82,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/packages/first_olga_package/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="456">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -100,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
@@ -135,8 +134,8 @@
         <option value="$PROJECT_DIR$/packages/first_olga_package/.babelrc" />
         <option value="$PROJECT_DIR$/lerna.json" />
         <option value="$PROJECT_DIR$/packages/first_olga_package/package/package.json" />
-        <option value="$PROJECT_DIR$/packages/first_olga_package/package.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/packages/first_olga_package/package.json" />
       </list>
     </option>
   </component>
@@ -178,6 +177,12 @@
               <item name="lerna-repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="lerna-repo" type="462c0819:PsiDirectoryNode" />
               <item name="packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lerna-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lerna-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+              <item name="first_olga_package" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,18 +226,17 @@
       <option name="presentableId" value="Default" />
       <updated>1539176550253</updated>
       <workItem from="1539176551857" duration="1861000" />
-      <workItem from="1539241500108" duration="6305000" />
+      <workItem from="1539241500108" duration="6578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8166000" />
+    <option name="totallyTimeSpent" value="8439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-821" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18849841" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -245,7 +249,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -382,13 +386,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/packages/first_olga_package/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lerna.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -400,6 +397,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/first_olga_package/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
