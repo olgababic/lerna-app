@@ -1,5 +1,5 @@
 {
-  "name": "@olga/prvi-projekat",
+  "name": "@olzica/prvi-projekat",
   "version": "2.0.8",
   "description": "Olgin prvi projekat",
   "main": "./dist",
@@ -41,5 +41,5 @@
     "react-dom": "^16.4.0",
     "style-loader": "^0.21.0"
   },
-  "gitHead": "eca64fcaa7427ba80e16dc538cad800837eeaf54"
+  "gitHead": "56c6464c054b894c75cd86e002ef9493f065515f"
 }
