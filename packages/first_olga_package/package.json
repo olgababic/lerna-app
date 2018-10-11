@@ -1,0 +1,41 @@
+{
+  "name": "@fishingbooker/react-pagination",
+  "version": "2.0.2",
+  "description": "React Pagination",
+  "main": "./dist",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "lib": "babel src/lib -d dist",
+    "lib:watch": "babel src/lib -w -d dist",
+    "docs": "webpack-dev-server --open",
+    "docs:prof": "webpack -p"
+  },
+  "keywords": [
+    "react",
+    "react-pagination",
+    "pagination",
+    "react-paging"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.49",
+    "@babel/core": "^7.0.0-beta.49",
+    "@babel/preset-env": "^7.0.0-beta.49",
+    "@babel/preset-react": "^7.0.0-beta.49",
+    "babel-loader": "^8.0.0-beta",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.9.0",
+    "webpack-cli": "^2.1.4",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "author": "Olga Babic <olga.babic@fishingbooker.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/register": "^7.0.0-beta.49",
+    "css-loader": "^0.28.11",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "style-loader": "^0.21.0"
+  }
+}
