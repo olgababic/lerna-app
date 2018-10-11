@@ -32,7 +32,7 @@
     "webpack-cli": "^2.1.4",
     "webpack-dev-server": "^3.1.4"
   },
-  "author": "Olga Babic <olga.babic@fishingbooker.com>",
+  "author": "Olga Babic <olgababic994@gmail.co>",
   "license": "ISC",
   "dependencies": {
     "@babel/register": "^7.0.0-beta.49",
@@ -40,6 +40,5 @@
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "style-loader": "^0.21.0"
-  },
-  "gitHead": "6e4ea7ecb8f2fe3ab219850146b20afbac453958"
+  }
 }
